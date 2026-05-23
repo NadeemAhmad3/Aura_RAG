@@ -26,9 +26,6 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>
 </p>
 
-<p align="center">
-  <img alt="AURA RAG Demo" src="assets/demo.gif" width="700px">
-</p>
 
 ---
 
