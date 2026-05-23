@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="AURA RAG Logo" src="assets/logo.png" width="350px">
-</p>
 
 <h1 align="center">🌌 AURA RAG — Agentic Universal Retrieval Assistant</h1>
 
